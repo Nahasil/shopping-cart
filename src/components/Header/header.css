@@ -1,0 +1,25 @@
+header{
+    background-color: black;
+    padding: 10px;
+}
+header .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header .header-cart{
+    position: relative;
+}
+ .cart-count-header {
+    position: absolute;
+    width: 23px;
+    height: 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(104, 39, 50);
+    color: whitesmoke;
+    border-radius: 50%;
+    top: 3px;
+    left: -5;
+}

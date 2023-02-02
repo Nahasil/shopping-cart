@@ -1,0 +1,17 @@
+[
+    {
+        "id":0,
+        "image":"https://m.media-amazon.com/images/I/71HUnJvHsbL._SX679_.jpg",
+        "title":"samsung"
+    },
+    {
+        "id":1,
+        "image":"https://m.media-amazon.com/images/I/61l9ppRIiqL._SL1500_.jpg",
+        "title":"Iphone"
+    },
+    {
+        "id":2,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYWBRLzVy54N4wij74Gs3y_nrBS6-ag90Uuw&usqp=CAU",
+        "title":"Redmi"
+    }
+]
